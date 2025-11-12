@@ -1,0 +1,25 @@
+html {
+    background-color: azure;
+    font-size: 1.1rem;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+    }
+
+.heading {
+    font-size: 2rem;
+    line-height: 0.75;
+    letter-spacing: 1px;
+}
+
+.copy {
+    font-size: 1rem;
+    line-height: 1.4;
+    word-spacing: 0px;
+}
+
+.helper-text {
+    font-size: 0.8rem;
+}
